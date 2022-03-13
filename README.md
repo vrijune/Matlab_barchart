@@ -1,4 +1,4 @@
-# Matlab_barchart
+# Matlab_Chart
 
 1. 条形类图形
 1） 直方图

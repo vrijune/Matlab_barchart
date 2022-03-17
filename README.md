@@ -26,5 +26,17 @@ stem函数：杆图
 
 ![image](https://user-images.githubusercontent.com/81022107/157792623-1f83ffd2-dd17-4c19-a62b-b08fca0520e5.png)
 
-4) 
+4) 矢量类图形
+compass函数：罗盘图
+feather函数：羽毛图
+quiver函数：箭头图
+quiver函数的调用格式为：quiver(x,y,u,v), 其中，（x，y）指定矢量起点，（u，v）指定矢量终点
+其中，(x,y),(u,v)是大小相同的向量。
+![image](https://user-images.githubusercontent.com/81022107/158746538-8c3c6da6-962f-46fd-ab5d-5180e8098a20.png)
+
+Text:分别为三点标注
+
+
+
+
 

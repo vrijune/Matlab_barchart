@@ -45,6 +45,9 @@ plot3(x,y,z)组成一组曲线的坐标
 
 ![image](https://user-images.githubusercontent.com/81022107/159592856-135b54c4-b47b-4b5d-8f1a-58b465b34756.png)
 
+1.参数x,y,z是同型矩阵时，则以x,y,z对应列元素绘制曲线，等于矩阵列数
+2.参数x,y,z中有向量也有矩阵时，行向量的长度与矩阵的列相同![image](https://user-images.githubusercontent.com/81022107/159825879-bc701c17-5ef2-4eae-88f4-31828874a850.png)
+
 
 
 

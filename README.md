@@ -42,7 +42,6 @@ Text:分别为三点标注
 1. plot3函数
 plot3(x,y,z)组成一组曲线的坐标
 例子比如： ![image](https://user-images.githubusercontent.com/81022107/159592833-76ffd986-78ae-4424-8018-26d25f2973b4.png)
-
 ![image](https://user-images.githubusercontent.com/81022107/159592856-135b54c4-b47b-4b5d-8f1a-58b465b34756.png)
 
 1.参数x,y,z是同型矩阵时，则以x,y,z对应列元素绘制曲线，等于矩阵列数

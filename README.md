@@ -48,6 +48,11 @@ plot3(x,y,z)组成一组曲线的坐标
 2.参数x,y,z中有向量也有矩阵时，行向量的长度与矩阵的列相同![image](https://user-images.githubusercontent.com/81022107/159825879-bc701c17-5ef2-4eae-88f4-31828874a850.png)
 
 ![image](https://user-images.githubusercontent.com/81022107/159828669-a66a960b-4e8e-4c98-8b0f-d8565d2948dc.png)
+第一个命令生成行向量t，第二个命令转至为列向量t'，调用plot3函数，以矩阵xyz为参数，绘制五条曲线，蓝色第一条，曲线的坐标对应xyz的第二点元素。也可以采用：![image](https://user-images.githubusercontent.com/81022107/160044449-266e373c-4e55-4103-bb4d-f6dc0285c3c7.png)
+![image](https://user-images.githubusercontent.com/81022107/160044468-7bc3750e-4da6-419a-bbc4-a56b87b9faa7.png)
+![image](https://user-images.githubusercontent.com/81022107/160044474-6228869e-736c-4dee-9540-553e2e8da61b.png)
+
+
 
 
 

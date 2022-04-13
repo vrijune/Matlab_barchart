@@ -54,10 +54,11 @@ plot3(x,y,z)组成一组曲线的坐标
 ![image](https://user-images.githubusercontent.com/81022107/160044474-6228869e-736c-4dee-9540-553e2e8da61b.png)
 
 (4) 含选项的plot3函数： plot3（x,y,z,choose）
-choose用于指定曲线的线型，颜色和数据点标记
+choose用于指定曲线的线型，颜色和数据点标记,
 然后进行修改。 
 
-(5)
+(5) 可以绘制空间图形 x,y,z
+
 
 
 

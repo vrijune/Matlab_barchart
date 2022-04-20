@@ -58,8 +58,14 @@ choose用于指定曲线的线型，颜色和数据点标记,
 然后进行修改。 
 
 (5) 可以绘制空间图形 x,y,z代表三位坐标
-对于三个不同的维度，我们可以这样： 
+对于三个不同的维度，我们可以这样： x=cost, y=sint,z=2t, 其中 0<t<6pi
+![image](https://user-images.githubusercontent.com/81022107/164200679-39e9d5ff-3799-434d-a5c6-3a74c67834bd.png)
+p:以五角星表示数据点，xlabel给三个坐标轴标号![image](https://user-images.githubusercontent.com/81022107/164200799-e9f2b616-a5ea-41de-9c1f-f1022cb4042f.png)
 
+(6)绘制螺旋状曲线，曲线的参数方程可以如下
+利用e的sin函数进行空间上的修正。t可以控制在10-12的范围内形成有效的图形
+![image](https://user-images.githubusercontent.com/81022107/164201250-2ad60e55-66df-48dc-bf52-0beafc209107.png)
+可以接着往肥胖lot函数后再加入第五个函数元素，比如线形和颜色。
 
 
 

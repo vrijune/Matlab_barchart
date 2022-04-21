@@ -67,6 +67,8 @@ p:以五角星表示数据点，xlabel给三个坐标轴标号![image](https://u
 ![image](https://user-images.githubusercontent.com/81022107/164201250-2ad60e55-66df-48dc-bf52-0beafc209107.png)
 可以接着往肥胖lot函数后再加入第五个函数元素，比如线形和颜色。
 
+三维的修正完成
+
 
 
 

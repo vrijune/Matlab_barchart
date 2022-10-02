@@ -10,6 +10,7 @@ rose 函数 rose(theta,x), 其中，参数theta用于确定每一区间与远点
 ![image](https://user-images.githubusercontent.com/81022107/157791771-f1770a31-c466-476f-8535-01a796c3d44b.png)
 
 
+
 2. 面积类图形
 1） 扇形图 
 pie函数

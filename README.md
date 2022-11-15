@@ -62,6 +62,7 @@ plot3(x,y,z)组成一组曲线的坐标
 choose用于指定曲线的线型，颜色和数据点标记,
 然后进行修改。 
 
+
 (5) 可以绘制空间图形 x,y,z代表三位坐标
 对于三个不同的维度，我们可以这样： x=cost, y=sint,z=2t, 其中 0<t<6pi
 ![image](https://user-images.githubusercontent.com/81022107/164200679-39e9d5ff-3799-434d-a5c6-3a74c67834bd.png)

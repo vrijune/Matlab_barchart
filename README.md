@@ -1,6 +1,7 @@
 # Matlab_Chart
 
 1. 条形类图形
+2. 
 
 1） 直方图
 rose 函数 rose(theta,x), 其中，参数theta用于确定每一区间与远点的角度，选项x用于指定区间的划分方式。

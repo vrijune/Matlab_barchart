@@ -43,6 +43,7 @@ Text:分别为三点标注
 5） 矢量图的表型
 三维图形曲线
 
+
 1. plot3函数
 plot3(x,y,z)组成一组曲线的坐标
 例子比如： ![image](https://user-images.githubusercontent.com/81022107/159592833-76ffd986-78ae-4424-8018-26d25f2973b4.png)

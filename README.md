@@ -24,7 +24,7 @@ area函数
 scatter函数：散点
 例： scatter(x,y,choose,'filled') 参数x，y用于定位数据点，选项用于指定线形，颜色，数据点的标记，filled可以填充数据点标块，省略时数据点空心
 stairs函数：阶梯
-stem函数：杆图
+stem函数：杆图\\
 
 ![image](https://user-images.githubusercontent.com/81022107/157792623-1f83ffd2-dd17-4c19-a62b-b08fca0520e5.png)
 

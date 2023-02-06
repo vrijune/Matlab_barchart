@@ -29,8 +29,6 @@ stem函数：杆图\\
 
 ![image](https://user-images.githubusercontent.com/81022107/157792623-1f83ffd2-dd17-4c19-a62b-b08fca0520e5.png)
 
-
-
 4) 矢量类图形
 compass函数：罗盘图
 feather函数：羽毛图

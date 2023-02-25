@@ -19,6 +19,7 @@ pie函数
 2）面积图
 area函数
 
+
 3）散点图
 scatter函数：散点
 例： scatter(x,y,choose,'filled') 参数x，y用于定位数据点，选项用于指定线形，颜色，数据点的标记，filled可以填充数据点标块，省略时数据点空心
